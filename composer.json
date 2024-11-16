@@ -1,0 +1,16 @@
+{
+  "name": "00anp/workopia",
+  "description": "Job listing app",
+  "authors": [
+    {
+      "name": "Alfonso Núñez",
+      "email": "alfonso.nunez29@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
